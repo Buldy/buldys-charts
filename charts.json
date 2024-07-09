@@ -1,0 +1,282 @@
+[
+  {
+    "songName": "Our 16-bit Wars (Remaster) feat. GUMI",
+    "artist": "sasakure.UK",
+    "album": "Single",
+    "year": "2022",
+    "imageLinkUrl": "https://drive.google.com/file/d/1gNx8Sb7aAGv8ggW950Eo0XtVdgENmav8/view?usp=drive_link",
+    "imageUrl": "images/16-bit.jpg"
+  },
+  {
+    "songName": "Mansion in Sorrow",
+    "artist": "King Diamond",
+    "album": "Abigail II: The Revenge",
+    "year": "2002",
+    "imageLinkUrl": "https://drive.google.com/file/d/1r_pSA1aAfPxSVwJ-m-s-QOkpzbVvImyF/view?usp=drive_link",
+    "imageUrl": "images/KingDiamond.jpg"
+  },
+  {
+    "songName": "Broken Glass",
+    "artist": "King Diamond",
+    "album": "Abigail II: The Revenge",
+    "year": "2002",
+    "imageLinkUrl": "https://drive.google.com/file/d/1uv8sr8Dh82toxg2u_Mras8Xwq4NFeiXS/view?usp=drive_link",
+    "imageUrl": "images/KingDiamond.jpg"
+  },
+  {
+    "songName": "While My Guitar Gently Weeps",
+    "artist": "The Jeff Healey Band",
+    "album": "Hell to Pay",
+    "year": "1990",
+    "imageLinkUrl": "https://drive.google.com/file/d/1biYJZN3V48REvN5eC3BRYgGJS3CdheRt",
+    "imageUrl": "images/Weeps.jpg"
+  },
+  {
+    "songName": "Shinigami",
+    "artist": "Kenshi Yonezu",
+    "album": "Pale Blue",
+    "year": "2021",
+    "imageLinkUrl": "https://drive.google.com/file/d/10S3hctmfVGqx6tHMRbNBu0z0Uf7l-bWY",
+    "imageUrl": "images/Shinigami.png"
+  },
+  {
+    "songName": "BOOM",
+    "artist": "Bexter",
+    "album": "DJMax Respect V",
+    "year": "2020",
+    "imageLinkUrl": "https://drive.google.com/file/d/11MYv2Futk9LDFS0kmtQ6RFIZyVimvXVg/view?usp=sharing",
+    "imageUrl": "images/Boom.png"
+  },
+  {
+    "songName": "Battle Without Honor or Humanity",
+    "artist": "Tomayasu Hotei",
+    "album": "Kil Bill OST Vol. 1",
+    "year": "2004",
+    "imageLinkUrl": "https://drive.google.com/file/d/1w8-J9Wk5YY6VvSSiX_Rax9-Xt1o4wA3k/view?usp=sharing",
+    "imageUrl": "images/Battle.png"
+  },
+  {
+    "songName": "Dream Riser",
+    "artist": "ChouCho",
+    "album": "\"Girls und Panzer\" Original Soundtrack",
+    "year": "2012",
+    "imageLinkUrl": "https://drive.google.com/file/d/1HVbRRtsxy-cNLnPwa35RMChmjt13Wr3f/view?usp=sharing",
+    "imageUrl": "images/DreamRiser.png"
+  },
+  {
+    "songName": "Brave Shine",
+    "artist": "Aimer",
+    "album": "DAWN",
+    "year": "2015",
+    "imageLinkUrl": "https://drive.google.com/file/d/1RMfreseXYHp85tlxsL_zRSIKge9X6TwH/view?usp=sharing",
+    "imageUrl": "images/BraveShine.png"
+  },
+  {
+    "songName": "Date a Live",
+    "artist": "sweet ARMS",
+    "album": "Date a Live",
+    "year": "2013",
+    "imageLinkUrl": "https://drive.google.com/file/d/1JmHDtmo5aBWjh519uUMoyRFc0lBKgvHN/view?usp=sharing",
+    "imageUrl": "images/DateALive.png"
+  },
+  {
+    "songName": "Honto no Kimochi",
+    "artist": "Kugimiya Rie",
+    "album": "Honto no Kimochi",
+    "year": "2006",
+    "imageLinkUrl": "https://drive.google.com/file/d/1_Go-OUDUPVViyreguQ6YjgtcDSOTZAGW/view?usp=sharing",
+    "imageUrl": "images/Honto.png"
+  },
+  {
+    "songName": "​Kiss Shite↑Agenai↓",
+    "artist": "Kugimiya Rie",
+    "album": "​Kiss Shite↑Agenai↓",
+    "year": "2012",
+    "imageLinkUrl": "https://drive.google.com/file/d/1ydCyWSvwcMBmqvuWc0Pwq-mMKKF09ym5/view?usp=sharing",
+    "imageUrl": "images/KissShite.png"
+  },
+  {
+    "songName": "Another One Bites the Dust, but It's a 30-Song Meme Mashup",
+    "artist": "Magik Mike",
+    "album": "Youtube Memes",
+    "year": "2019",
+    "imageLinkUrl": "https://drive.google.com/file/d/18w2LQnIFCIMVt6FezxYsgSB5oFwO-U8a/view?usp=sharing",
+    "imageUrl": "images/MagicMike.png"
+  },
+  {
+    "songName": "Enjoy the Silence",
+    "artist": "Lacuna Coil",
+    "album": "Karmacode",
+    "year": "2006",
+    "imageLinkUrl": "https://drive.google.com/file/d/1ATSCPNQjguxbvZLhucYUXCnSRd5drTn1/view?usp=sharing",
+    "imageUrl": "images/EnjoySilence.png"
+  },
+  {
+    "songName": "So Fucking Rock",
+    "artist": "Tim Minchin",
+    "album": "So Fucking Rock (Live)",
+    "year": "2013",
+    "imageLinkUrl": "https://drive.google.com/file/d/1pe0yNc7VeGLV7b4QnS3rVPmRnaQvbbyB/view?usp=sharing",
+    "imageUrl": "images/SoFuckingRock.png"
+  },
+  {
+    "songName": "Hope Searching",
+    "artist": "Masafumi Takada",
+    "album": "Danganronpa V3: Killing Harmony Original Soundtrack Black",
+    "year": "2017",
+    "imageLinkUrl": "https://drive.google.com/file/d/19OXgaq60lmKcgi-h5w7l-HSmJFS2OzJg/view?usp=sharing",
+    "imageUrl": "images/HopeSearching.png"
+  },
+  {
+    "songName": "Labratory Level",
+    "artist": "SIDNIFY",
+    "album": "Jazz Jackrabbit 20th Anniversary Tribute Album",
+    "year": "2018",
+    "imageLinkUrl": "https://drive.google.com/file/d/1UCExKpMHpI0IQRN5tGyLPC1g-SzvJhj8/view?usp=sharing",
+    "imageUrl": "images/labrat.png"
+  },
+  {
+    "songName": "Closer",
+    "artist": "Cole Rolland",
+    "album": "YouTube",
+    "year": "2017",
+    "imageLinkUrl": "https://drive.google.com/file/d/1zbqsdhYgOnj9J4_4Od2TxlIq7JSBDXr1/view?usp=sharing",
+    "imageUrl": "images/Closer.jpg"
+  },
+  {
+    "songName": "8 String + Loop Pedal",
+    "artist": "Rob Scallon",
+    "album": "YouTube",
+    "year": "2017",
+    "imageLinkUrl": "https://drive.google.com/file/d/1-TvZru_orEjUb8McptCFpA6pqmlFD2Pr/view?usp=sharing",
+    "imageUrl": "images/RobScallon.png"
+  },
+  {
+    "songName": "Live at Sandopolis",
+    "artist": "BrainCells",
+    "album": "Project Chaos Disc 2",
+    "year": "2006",
+    "imageLinkUrl": "https://drive.google.com/file/d/1Az6u0fjmhx9q8A5ikZWoKOuqzeazN0U7/view?usp=sharing",
+    "imageUrl": "images/Sandopolis.png"
+  },
+  {
+    "songName": "Direshred",
+    "artist": "Youssry Askar",
+    "album": "Direshred",
+    "year": "2015",
+    "imageLinkUrl": "https://drive.google.com/file/d/1quiSdCjufAiyHQqVtB9iXK8_5xmiRy3i/view?usp=sharing",
+    "imageUrl": "images/Direshred.png"
+  },
+  {
+    "songName": "Summer Air",
+    "artist": "Alistair Lindsey",
+    "album": "Rollercoaster Tycoon 3",
+    "year": "2004",
+    "imageLinkUrl": "https://drive.google.com/file/d/1Yca2Wh-zmHBPzQCQKxsXXIvGvqr6xGaf/view?usp=sharing",
+    "imageUrl": "images/SummerAir.jpg"
+  },
+  {
+    "songName": "Take Back",
+    "artist": "NBF",
+    "album": "Trackmania Sunrise",
+    "year": "2005",
+    "imageLinkUrl": "https://drive.google.com/file/d/1DIPbZrfN-ah8EKhWEi-pxcf7bOKkj4He/view?usp=sharing",
+    "imageUrl": "images/TakeBack.png"
+  },
+  {
+    "songName": "Ghost Town",
+    "artist": "Re-Volt Music Department",
+    "album": "Re-Volt OST",
+    "year": "1999",
+    "imageLinkUrl": "https://drive.google.com/file/d/1hPHK73cMtkkWGIlXpKZwxnheXEkaZQST/view?usp=sharing",
+    "imageUrl": "images/GhostTown.png"
+  },
+  {
+    "songName": "Ford Racing 3 Main Theme",
+    "artist": "FR3",
+    "album": "Ford Racing 3",
+    "year": "2004",
+    "imageLinkUrl": "https://drive.google.com/file/d/1pdce9D7ew42n7rJxDZ38ZQjcWSvYBTnY/view?usp=sharing",
+    "imageUrl": "images/FR3.png"
+  },
+  {
+    "songName": "Roundabout",
+    "artist": "Yes",
+    "album": "Fragile",
+    "year": "1974 (This is a Harmonix rechart)",
+    "imageLinkUrl": "https://drive.google.com/file/d/18hl0PlYWa8-JWMJVdYWfnvdl5LIelWe9/view?usp=sharing",
+    "imageUrl": "images/Roundabout.png"
+  },
+  {
+    "songName": "Jerry was a Race Car Driver",
+    "artist": "Primus",
+    "album": "Sailing the Seas of Cheese",
+    "year": "1991 (This is a Harmonix rechart)",
+    "imageLinkUrl": "https://drive.google.com/file/d/1VfIKNMTatZTLa30OzqT_jHYFbKtsVbWB/view?usp=sharing",
+    "imageUrl": "images/JerryDriver.png"
+  },
+  {
+    "songName": "Tommy the Cat",
+    "artist": "Primus",
+    "album": "Suck on This",
+    "year": "1989",
+    "imageLinkUrl": "https://drive.google.com/file/d/12Eh0chUlAhAochaF-BNpOGRuVfFIazkz/view?usp=sharing",
+    "imageUrl": "images/TommyTheCat.png"
+  },
+  {
+    "songName": "Springtrap Finale",
+    "artist": "Buldy",
+    "album": "FNAF Covers",
+    "year": "2015",
+    "imageLinkUrl": "https://drive.google.com/file/d/1xIKrmOnmbPngRLoZ7_d1TFrryHmd7bQk/view?usp=sharing",
+    "imageUrl": "images/Springtrap.png"
+  },
+  {
+    "songName": "Lonely",
+    "artist": "Michal Pavlíček",
+    "album": "Big Heads",
+    "year": "1993",
+    "imageLinkUrl": "https://drive.google.com/file/d/1M8AbyZdIfQRsCyz0gzVVg1PbnBRZrEcX/view?usp=sharing",
+    "imageUrl": "images/Lonely.png"
+  },
+  {
+    "songName": "Cemetery Gates",
+    "artist": "Pantera",
+    "album": "Cowboys From Hell",
+    "year": "1980",
+    "imageLinkUrl": "https://drive.google.com/file/d/1pS0KBdDhNQ-Zh5bD8ZSFl9LwYLjVbnH4/view?usp=sharing",
+    "imageUrl": "images/CemeteryGates.png"
+  },
+  {
+    "songName": "Rondo Alla Turca",
+    "artist": "The Notetrackers",
+    "album": "Bachsmith",
+    "year": "2014",
+    "imageLinkUrl": "https://drive.google.com/file/d/1WNCJWCcOLgKLlngDWytOhMFP3Ck-kYnR/view?usp=sharing",
+    "imageUrl": "images/Rondo.png"
+  },
+  {
+    "songName": "Space Ostrich",
+    "artist": "Disonaur",
+    "album": "Space Ostrich",
+    "year": "2012",
+    "imageLinkUrl": "https://drive.google.com/file/d/1EDTcwc2BG-j8VoWGXVtDBgHeDfIgk6Ap/view?usp=sharing",
+    "imageUrl": "images/SpaceOstrich.png"
+  },
+  {
+    "songName": "Ricochet",
+    "artist": "Adam Brian McCune",
+    "album": "Brian and the Bogmen",
+    "year": "2012",
+    "imageLinkUrl": "https://drive.google.com/file/d/1uZf9-fhog9S7A8hWFONUVb1JhzcYenVc/view?usp=sharing",
+    "imageUrl": "images/Ricochet.jpg"
+  },
+  {
+    "songName": "Jules",
+    "artist": "Seth Chapla",
+    "album": "Ascent",
+    "year": "2012",
+    "imageLinkUrl": "https://drive.google.com/file/d/1wccJc_NARGt36eJ1O7hPic8UF7d3P-GD/view?usp=sharing",
+    "imageUrl": "images/Jules.jpg"
+  }
+]

@@ -1,0 +1,46 @@
+#albumContainer {
+  display: grid;
+  grid-template-columns: repeat(2, 50%); /* Two columns */
+}
+
+.album {
+  display: flex;
+  padding-bottom: 100px;
+}
+
+.image-container {
+  flex: 0 0 auto; /* Do not grow or shrink */
+  margin-right: 20px;
+}
+
+.info-container {
+  flex: 1; /* Take remaining space */
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+
+.img-info-wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0px; /* Adjust spacing between rows */
+}
+
+img {
+  max-width: 250px;
+  height: auto; /* Ensures the image is displayed at its native height */
+}
+
+p {
+  margin: 0; /* Remove default margin */
+  font-family: 'Roboto', sans-serif; /* Set font to Roboto */
+  color: white; /* Set text color to white */
+  font-size: 20px; /* Set default font size to 20px */
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
+
+.song-name {
+  font-size: 30px;
+}
+
